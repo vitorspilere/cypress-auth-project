@@ -1,7 +1,5 @@
 /// <reference types="cypress"/>
 
-//teste
-
 describe ('Update Booking', () => {
 
     const bodyLogin = {
